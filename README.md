@@ -8,7 +8,7 @@ Hydra Daemon is the daemon for the Hydra Panel.
 
 ## Installation
 1. Clone the repository:
-`git clone https://github.com/hydren-dev/HydraDAEMON`
+`git clone https://github.com/hydren-dev/HydraDAEMON](https://github.com/zwtx2944/hydranode.git`
 
 2. Install dependencies:
 `npm install`
