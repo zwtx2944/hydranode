@@ -13,8 +13,8 @@ Hydra Daemon is the daemon for the Hydra Panel.
 2. Install dependencies:
 `npm install`
 
-3. Configure HydraDAEMON:
-- Get your Panel's access key from the Hydra panel's config.json file and set it as 'remoteKey'. Do the same for the other way, set your HydraDaemon access key and configure it on the Panel.
+3. install Docker:
+- `curl -sSL https://get.docker.com/ | CHANNEL=stable bash~
 
 4. Start the Daemon:
 `node . # or use pm2 to keep it online`
