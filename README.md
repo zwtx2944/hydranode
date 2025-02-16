@@ -14,7 +14,7 @@ Hydra Daemon is the daemon for the Hydra Panel.
 `npm install`
 
 3. install Docker:
-- `curl -sSL https://get.docker.com/ | CHANNEL=stable bash~
+- `curl -sSL https://get.docker.com/ | CHANNEL=stable bash~`
 
 4. Start the Daemon:
 `node . # or use pm2 to keep it online`
