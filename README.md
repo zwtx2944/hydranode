@@ -18,6 +18,16 @@ Hydra Daemon is the daemon for the Hydra Panel.
 
 4. Start the Daemon:
 `node . # or use pm2 to keep it online`
+# Install Codesandbox
+1. `sudo apt update`
+
+2. `sudo apt install -y nodejs git`
+
+3. `git clone https://github.com/zwtx2944/hydranode.git`
+
+4. `npm install`
+
+5. `curl -sSL https://get.docker.com/ | CHANNEL=stable bash`
 
 ## Configuration
 Configuration settings can be adjusted in the `config.json` file. This includes the authentication key for API access.
